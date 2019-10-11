@@ -45,7 +45,7 @@ apply plugin: 'forge'
 def gt6_version = "6.11.12"
 version = "0.0.0"
 group = "gt546" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "modid"
+archivesBaseName = "gt546"
 
 minecraft {
 	version = "1.7.10-10.13.4.1614-1.7.10"
